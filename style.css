@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    }
+#canvas {
+    border: 9px ridge;
+    }
+div{
+      display:inline-flex;
+      border:2px darkslateblue solid;
+      width: 275px;
+    }
+input{
+        margin: 2px; 
+        width: 50px;
+    }
+#file{
+        width: 250px;
+    }
+.input{
+width:175px;
+    }
